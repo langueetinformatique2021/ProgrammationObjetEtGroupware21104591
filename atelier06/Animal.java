@@ -29,3 +29,4 @@ public abstract class Animal {
 	/** cri de l'animal */
 	public abstract void crie();
 }
+
